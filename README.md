@@ -1,4 +1,8 @@
-[English](README_EN.md)
+<div align="center">
+
+[English](README_EN.md) • **Русский**
+
+</div>
 
 # jobqueue
 
